@@ -1,0 +1,12 @@
+﻿namespace ProjetoApi.Data.Dtos;
+
+public class ReadProdutoDto
+{
+    public int Id { get; set; }
+
+    public string NomeProduto { get; set; }
+
+    public float ValorProduto { get; set; }
+
+    public string Categoria { get; set; }
+}
