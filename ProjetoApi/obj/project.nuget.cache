@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Nof6GGii8aHWqoKJvyyo/fjACzppTyYWrFkW2HgF3HyGc0FIAwU2PdcpFrs9aUhfFPk2C4K9pgtABvSfn8BG6A==",
+  "dgSpecHash": "Gks0UDTMPfoKhSrocpUvJDgwAJqpOBWtJcBtsUA5lG483Nb7JdJImg5teCnNjQ7YQmyjUm5MdJtRc00YqtHHDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lsmar\\source\\repos\\ProjetoApi\\ProjetoApi\\ProjetoApi.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "C:\\Users\\lsmar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lsmar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\lsmar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lsmar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\lsmar\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\lsmar\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
     "C:\\Users\\lsmar\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
