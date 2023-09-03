@@ -41,3 +41,7 @@ C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\obj\Debug\net6.0\ProjetoApi.ge
 C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\obj\Debug\net6.0\ref\ProjetoApi.dll
 C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lsmar\source\repos\ProjetoApi\ProjetoApi\bin\Debug\net6.0\Newtonsoft.Json.dll
